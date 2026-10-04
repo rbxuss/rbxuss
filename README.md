@@ -1,102 +1,42 @@
-# ¡Hola! 👋 Soy rbxuss
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Always+Learning;Clean+Code+Enthusiast" alt="Typing SVG" />
-</div>
-
----
-
-## 💼 Sobre mí
-
-```
-💻 Desarrollador full-stack apasionado
-🌱 Siempre aprendiendo nuevas tecnologías  
-🎯 Enfocado en código limpio y mantenible
-📚 Interesado en JavaScript y desarrollo web
-🚀 Creando soluciones innovadoras
-```
-
----
-
-## 🛠️ Tecnologías
-
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<h1>Julián Andrés Carvajalino Quintero</h1>
 
-</div>
+<h3>Desarrollador Web Junior · Frontend &amp; Interfaces 3D</h3>
 
----
+<img src="https://images.weserv.nl/?url=github.com/rbxuss.png&w=360&h=360&fit=cover&mask=circle" width="170" alt="Foto de perfil" />
 
-## 📊 Estadísticas & Proyectos
+<a href="https://github.com/rbxuss"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&pause=1000&color=00B0FF&center=true&vCenter=true&width=620&height=32&lines=Interfaces+3D+con+Three.js+%26+WebGL;Aplicaciones+full-stack+con+PHP+%26+Laravel;Automatizaci%C3%B3n+con+Python+%26+OCR;Ingenier%C3%ADa+de+Sistemas+%C2%B7+Bogot%C3%A1" alt="Typing SVG" /></a>
 
-<table align="center">
-  <tr>
-    <td width="50%">
-      <h3>📈 Actividad</h3>
-      <ul>
-        <li><strong>30 contribuciones</strong> en el último año</li>
-        <li>Desarrollador activo</li>
-        <li>Comprometido con el código limpio</li>
-      </ul>
-    </td>
-    <td width="50%">
-      <h3>🗂️ Lenguajes Más Usados</h3>
-      <ul>
-        <li>🟨 <strong>JavaScript</strong> 54.7%</li>
-        <li>🟧 <strong>HTML</strong> 32.8%</li>
-        <li>🔵 <strong>CSS</strong> 8.95%</li>
-        <li>⚫ <strong>Otros</strong> 3.55%</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<sub>📍 Bogotá, Colombia &nbsp;·&nbsp; 🎓 Universitaria de Colombia (2023 – 2026)</sub>
 
----
+<br>
 
-## 🚀 Proyectos Destacados
+<a href="https://github.com/rbxuss"><img src="https://img.shields.io/badge/GitHub-rbxuss-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/TU-USUARIO"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:juliancarvajalino8@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://wa.me/573144750332"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
 
-<div align="center">
+<br><br>
 
-### 🟨 **Prueba** - Proyecto Principal
-Proyecto principal donde desarrollo nuevas ideas y soluciones innovadoras.
+<h3>🛠️ Stack tecnológico</h3>
 
-### 🔧 **Goshop**
-Proyecto con 19 commits | E-commerce / Tienda online
+<img src="https://skillicons.dev/icons?i=html,css,js,threejs,php,laravel,py,mysql,git,github&theme=dark&perline=10" alt="Stack tecnológico" />
 
-### 📱 **Portafoliov2**
-Portfolio personal | 3 commits | Showcase de mis trabajos
+<br>
 
-### 🗄️ **cardsql**
-Base de datos con cards | 1 commit | Proyecto complementario
+<sub>HTML5 · CSS3 · JavaScript · Three.js · PHP · Laravel · Python · MySQL · Git · GitHub</sub>
 
-</div>
+<br><br>
 
----
+<h3>🤝 Conectemos</h3>
 
-## 📫 Conecta Conmigo
+<sub>Abierto a <b>práctica, trabajo junior y colaboraciones</b><br>en desarrollo web, interfaces 3D y análisis de datos.</sub>
 
-<div align="center">
+<br><br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-rbxuss-000?style=for-the-badge&logo=github)](https://github.com/rbxuss)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail)](mailto:tu-email@example.com)
+<sub><i>"El código limpio es código que funciona hoy y que otro programador puede entender mañana."</i></sub>
 
-</div>
-
----
-
-<div align="center">
-
-### 💡 *"El código limpio es código que funciona hoy y que otro programador puede entender mañana."*
-
-⭐ Si te gustan mis proyectos, no dudes en darles una estrella ⭐
-
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=rbxuss.rbxuss)
+<br><br>
 
 </div>
