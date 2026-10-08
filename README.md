@@ -4,7 +4,7 @@
 <tr>
 <td align="center" width="65%">
 
-# Julián Andrés Carvajalino Quintero
+<h1 style="font-family: 'Fira Code', monospace;">Julián Andrés Carvajalino Quintero</h1> 
 
 ### Desarrollador Web Junior · Interfaces 3D · Análisis de Datos
 
@@ -33,8 +33,7 @@
 <a href="https://wa.me/573144750332">
 <img src="https://img.shields.io/badge/%3CWA%3E-msg__me-00ff9c?style=for-the-badge&logo=whatsapp&logoColor=00ff9c&labelColor=0d0d1a" alt="WhatsApp"/>
 </a>
-
-<br><br>
+<br>
 
 ### `// STACK`
 
@@ -43,12 +42,11 @@
 <br>
 
 `HTML` · `CSS` · `JS` · `React` · `Three.js` · `PHP` · `Laravel` · `Python` · `MySQL` · `Git`
-
-<br><br>
+<br>
 
 <sub><b>[ACCESS_GRANTED]</b> Abierto a <span style="color:#ff00c1">trabajo</span>, <span style="color:#ff00c1">prácticas</span> y <span style="color:#ff00c1">colaboraciones</span>.</sub>
 
-<br><br>
+<br>
 
 <pre>
 >_ quote.loaded: "El código limpio es código que funciona hoy 🧬
