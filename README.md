@@ -13,7 +13,7 @@
 <td align="center" width="35%">
 
 <img src="https://images.weserv.nl/?url=github.com/rbxuss.png&w=300&h=300&fit=cover&mask=circle" width="160" alt="Foto de perfil"/>
-
+ 
 </td>
 </tr>
 </table>
